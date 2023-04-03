@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-handjet: Handjet;
+
+  /* Colors */
+  --color-white: #fff;
+
+  /* border radiuses */
+  --br-73xl-2: 92.2px;
+  --br-24xl: 43px;
+  --br-242xl-5: 261.5px;
+}
